@@ -6,3 +6,6 @@ public class hlavni {
         System.out.println("burh");
     }
 }
+/*
+opachki
+ */
