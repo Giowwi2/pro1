@@ -9,3 +9,5 @@ public class hlavni {
 /*
 opachki
  */
+
+//z hlavní habídky při vytváření projektu VCS -> vytvoří branch(klon)
